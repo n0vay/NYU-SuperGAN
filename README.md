@@ -83,7 +83,7 @@ SuperGAN is released under Apache License Version 2.0.
 
 ## :e-mail: Contact
 
-If you have any question, please email `anant.singh@nyu.edu`
+If you have any question, please email `shantanukumar@nyu.edu`
 <br> 
 > This Project was part of graduate level Deep Learning course at New York University
 
